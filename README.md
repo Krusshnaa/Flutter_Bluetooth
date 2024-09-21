@@ -218,3 +218,8 @@ class _MyAppState extends State<MyApp> {
 ```
 
 
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this project as long as proper attribution is provided.
+
+## Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests if you have suggestions or improvements.
